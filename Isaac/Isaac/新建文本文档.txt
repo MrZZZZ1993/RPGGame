@@ -1,0 +1,8 @@
+
+
+
+
+<FirstStage name="FlyMonster" type="3" mapIndex="2" desX="110" desY="110" speed="5" fHalfWidth="15" dirX="10" dirY="5" />
+
+
+<FirstStage type="0" MapType="1" name="stone1" stone="1" fileName="Stone1.bin" mapNumber="2" desX="0" desY="0" showWidth="832" showHeight="576" />

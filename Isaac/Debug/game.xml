@@ -1,0 +1,128 @@
+<STATICIMAGE imgType="0" name="Map" path="../bin/First/Map.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Map2" path="../bin/First/Map2.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="BigMap" path="../bin/First/BigMap.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Map4" path="../bin/First/Map4.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Map5" path="../bin/First/Map5.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Map6" path="../bin/First/Map6.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Map7" path="../bin/First/Map7.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="PlayerBody" path="../bin/Player/PlayerBody.png" countFrame="8" countDir="8" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="PlayerHead" path="../bin/Player/PlayerHead.png" countFrame="6" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="others" path="../bin/Player/others.png" countFrame="4" countDir="3" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="0" name="bj" path="../bin/StartSurface/bj.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="0" name="shadow" path="../bin/StartSurface/shadow.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="fly" path="../bin/StartSurface/fly.png" countFrame="1" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="zz" path="../bin/StartSurface/zz.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="logo" path="../bin/StartSurface/logo.png"  colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="Bullet" path="../bin/Bullet/Bullet.png" countFrame="4" countDir="4" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="EnemyBullet" path="../bin/Bullet/EnemyBullet.png" countFrame="4" countDir="4" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="Explode" path="../bin/Bullet/Bullet.png" countFrame="4" countDir="4" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stone" path="../bin/stone.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stone1" path="../bin/stone.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stone2" path="../bin/stone.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stone3" path="../bin/stone.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stone4" path="../bin/stone.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="stone5" path="../bin/stone.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="BJ" path="../bin/SelectFile/bj.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="logo1" path="../bin/SelectFile/logo.png" colorR="0" colorG="0" colorB="0" />
+<MULIMAGE imgType="2" title="1" countFrame="2" colorR="0" colorG="0" colorB="0">
+ <child name="1b" path="../bin/SelectFile/1b.png" />
+    <child name="1" path="../bin/SelectFile/1.png" />
+</MULIMAGE>
+<MULIMAGE imgType="2" title="2" countFrame="2" colorR="0" colorG="0" colorB="0">
+  <child name="2b" path="../bin/SelectFile/2b.png" />
+    <child name="2" path="../bin/SelectFile/2.png" />
+</MULIMAGE>
+<MULIMAGE imgType="2" title="3" countFrame="2" colorR="0" colorG="0" colorB="0">
+    <child name="3b" path="../bin/SelectFile/3b.png" />
+    <child name="3" path="../bin/SelectFile/3.png" />
+</MULIMAGE>
+<MULIMAGE imgType="2" title="delete" countFrame="2" colorR="0" colorG="0" colorB="0">
+ <child name="deleteB" path="../bin/SelectFile/deleteB.png" />
+    <child name="delete" path="../bin/SelectFile/delete.png" />
+</MULIMAGE>
+<STATICIMAGE imgType="0" name="PlayerShadow" path="../bin/Player/shadow.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="Fly" path="../bin/Monster/fly.png" countFrame="8" countDir="8" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="Fly1" path="../bin/Monster/fly.png" countFrame="4" countDir="4" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="FlyMonster" path="../bin/Monster/flyMonster.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="NewGame" path="../bin/NewGame/NewGame.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="option" path="../bin/NewGame/option.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="selectBg" path="../bin/SelectPlayer/selectBg.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="player" path="../bin/SelectPlayer/player.png" countFrame="5" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="arrow" path="../bin/SelectPlayer/arrow.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="name" path="../bin/SelectPlayer/name.png" countFrame="2" countDir="7" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="heart" path="../bin/SelectPlayer/heart.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="speed" path="../bin/SelectPlayer/speed.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="attack" path="../bin/SelectPlayer/attack.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="blood2" path="../bin/SelectPlayer/2.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="blood3" path="../bin/SelectPlayer/3.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="none" path="../bin/SelectPlayer/none.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="transition" path="../bin/Transition/transition.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="black" path="../bin/Transition/2282.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="fire" path="../bin/barrier/fire.png" countFrame="8" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="underFire" path="../bin/barrier/underFire.png" countFrame="4" countDir="4" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Map1" path="../bin/First/Map1.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Map3" path="../bin/First/Map3.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="door2" path="../bin/First/door2.png" countFrame="1" countDir="5" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="door1" path="../bin/First/door1.png" countFrame="5" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="door3" path="../bin/First/door3.png" countFrame="5" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="door4" path="../bin/First/door4.png" countFrame="1" countDir="5" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="FlyDuke" path="../bin/Monster/FlyDuke.png" countFrame="2" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="bossDoor3" path="../bin/First/bossDoor3.png" countFrame="5" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="bossDoor1" path="../bin/First/bossDoor1.png" countFrame="5" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="bossDoor2" path="../bin/First/bossDoor2.png" countFrame="1" countDir="5" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="bossDoor4" path="../bin/First/bossDoor4.png" countFrame="1" countDir="5" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="DukeOfFly" path="../bin/First/DukeOfFly.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="2079" path="../bin/First/2079.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="Black" path="../bin/First/black.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="isaac" path="../bin/First/isaac.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="ground" path="../bin/First/ground.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="ground1" path="../bin/First/ground.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="ISA" path="../bin/First/ISA.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="VS" path="../bin/First/VS.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="DUKE" path="../bin/First/DUKE.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="blood" path="../bin/First/blood.png" countFrame="1" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="blood1" path="../bin/First/blood1.png" countFrame="3" countDir="4" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="guide" path="../bin/First/guide.png" countFrame="8" countDir="10" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="guide1" path="../bin/First/guide.png" countFrame="8" countDir="10" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="HEART" path="../bin/First/heart.png" countFrame="5" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="bombExplode" path="../bin/First/880.png" countFrame="4" countDir="4" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="bombExplode1" path="../bin/First/880.png" countFrame="4" countDir="4" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="tile" path="../bin/First/tile.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="BobHead" path="../bin/Monster/BobHead.png" countFrame="2" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="BobBody" path="../bin/Monster/BobBody.png" countFrame="8" countDir="8" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="dead" path="../bin/Monster/dead.png" countFrame="4" countDir="4" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="MaskMonster" path="../bin/Monster/MaskMonster.png" countFrame="2" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="mask" path="../bin/Monster/mask.png" countFrame="4" countDir="2" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="maskHeart" path="../bin/Monster/mask.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="feceMonster" path="../bin/Monster/feceMonster.png" countFrame="3" countDir="4" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="MatherHeart" path="../bin/Monster/MatherHeart.png" countFrame="2" countDir="3" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="goldenBox" path="../bin/First/goldenBox.png" countFrame="4" countDir="1" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="lost" path="../bin/First/lost.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="1268" path="../bin/First/1268.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="mushroom" path="../bin/Goods/mushroom.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="shoe" path="../bin/Goods/shoe.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="bomb" path="../bin/Goods/bomb.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="scissor" path="../bin/Goods/scissor.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="leg" path="../bin/Goods/leg.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="fatherLeg" path="../bin/Goods/1092.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="22291" path="../bin/SelectFile/2229.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="22311" path="../bin/SelectFile/2231.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="22292" path="../bin/SelectFile/2229.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="22312" path="../bin/SelectFile/2231.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="22293" path="../bin/SelectFile/2229.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="22313" path="../bin/SelectFile/2231.png" countFrame="2" countDir="1" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="angel" path="../bin/Goods/914.png" colorR="0" colorG="0" colorB="0" />
+<STATICIMAGE imgType="0" name="heart111" path="../bin/Goods/heart.png" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="money" path="../bin/Goods/money.png" countFrame="8" countDir="3" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="number" path="../bin/Goods/number.png" countFrame="5" countDir="1" colorR="0" colorG="0" colorB="0" />
+<SINGLEIMAGE imgType="1" name="number1" path="../bin/Goods/number1.png" countFrame="5" countDir="1" colorR="0" colorG="0" colorB="0" />
+
+
+
+
+
+
+
+
+
+

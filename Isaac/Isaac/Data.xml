@@ -1,0 +1,42 @@
+<StartSurface name="bj" type="0" desX="0" desY="0" showWidth="832" showHeight="576" />
+<StartSurface name="logo" type="1" desX="0" desY="45" showWidth="1000" showHeight="200" angle="0" />
+<StartSurface name="zz" type="2" desX="225" desY="200" startFrame="0" endFrame="1" />
+<StartSurface name="fly" type="3" desX="600" desY="40" startRow="0" endRow="1" />
+<StartSurface name="data" type="4" speed="32" updateRate="6" countAngle="0" countAngle1="20" preAngle="1" />
+
+<Transition name="transition" type="5" desX="0" desY="0" />
+<Transition name="black" type="6" desX="356" desY="366" />
+<Transition name="black" type="7" startCount="30" endCount="35" />
+
+<NewGame name="NewGame" type="8" desX="0" desY="576" />
+<NewGame name="option" type="9" desX="260" desY="626" />
+<NewGame name="option" type="10" speed="32" />
+
+<SelectFile name="BJ" type="11" desX="0" desY="576" />
+<SelectFile name="1" type="12" desX="15" desY="656" showWidth="260" showHeight="359" />
+<SelectFile name="2" type="13" desX="285" desY="656" showWidth="260" showHeight="359" />
+<SelectFile name="3" type="14" desX="555" desY="656" showWidth="260" showHeight="359" />
+<SelectFile name="logo1" type="15" desX="265" desY="596" showWidth="307" showHeight="50" />
+<SelectFile name="delete" type="16" desX="150" desY="1026" showWidth="541" showHeight="100" />
+<SelectFile name="delete" type="17" speed="32" />
+
+
+<SelectPlayer name="selectBg" type="18" desX="832" desY="0" />
+<SelectPlayer name="player" type="19" desX="1222" desY="280" />
+<SelectPlayer name="arrow" type="20" desX="1362" desY="360" />
+<SelectPlayer name="name" type="21" desX="1192" desY="360" />
+<SelectPlayer name="heart" type="22" desX="1092" desY="430" />
+<SelectPlayer name="attack" type="23" desX="1332" desY="415" />
+<SelectPlayer name="speed" type="24" desX="1207" desY="430" />
+<SelectPlayer name="blood2" type="25" desX="1207" desY="430" />
+<SelectPlayer name="blood3" type="26" desX="1142" desY="430" />
+<SelectPlayer name="none" type="27" desX="1207" desY="430" />
+<SelectPlayer name="none" type="28" x1="370" y1="240" x2="530" y2="190" x3="370" y3="140" x4="210" y4="190" speed="10" BGspeed="32" />
+
+
+<SelectPlayer name="22291" type="29" desX="15" desY="656" />
+<SelectPlayer name="22292" type="29" desX="285" desY="656" />
+<SelectPlayer name="22293" type="29" desX="555" desY="656" />
+<SelectPlayer name="22311" type="29" desX="15" desY="656" />
+<SelectPlayer name="22312" type="29" desX="285" desY="656" />
+<SelectPlayer name="22313" type="29" desX="555" desY="656" />

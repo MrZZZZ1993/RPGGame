@@ -1,0 +1,174 @@
+﻿  stdafx.cpp
+  Angel.cpp
+  AStar.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\AStar.cpp(164,9): warning C4101: 'y': unreferenced local variable
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\AStar.cpp(164,6): warning C4101: 'x': unreferenced local variable
+  Audio4Bass.cpp
+  Bob.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bob.cpp(175,18): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bob.cpp(176,18): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bob.cpp(180,36): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bob.cpp(181,36): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bob.cpp(200,17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bob.cpp(202,18): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bob.cpp(203,18): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  Bomb.cpp
+  Building.cpp
+  Bullet.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bullet.cpp(176,16): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bullet.cpp(177,16): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bullet.cpp(179,16): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Bullet.cpp(180,16): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  Door.cpp
+  End.cpp
+  Eye.cpp
+  FeceMonster.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(108,16): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(109,16): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(115,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(131,40): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(131,27): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(144,15): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(146,16): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(147,16): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(176,17): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(177,17): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(181,23): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(182,23): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(186,23): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(187,23): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(191,23): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FeceMonster.cpp(192,23): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+  Feces.cpp
+  Fire.cpp
+  Fly.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(129,16): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(130,16): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(131,18): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(132,18): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(148,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(183,16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(185,18): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(186,18): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(356,18): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(357,18): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(361,34): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(362,34): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(381,17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(383,18): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Fly.cpp(384,18): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  FlyDuke.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyDuke.cpp(30,24): warning C4018: '>': signed/unsigned mismatch
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyDuke.cpp(63,8): warning C4244: 'initializing': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyDuke.cpp(64,8): warning C4244: 'initializing': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyDuke.cpp(119,20): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyDuke.cpp(119,20): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyDuke.cpp(119,28): warning C4838: conversion from 'FLOAT' to 'LONG' requires a narrowing conversion
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyDuke.cpp(119,28): warning C4244: 'initializing': conversion from 'FLOAT' to 'LONG', possible loss of data
+  FlyMonster.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(52,16): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(53,16): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(79,38): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(81,38): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(82,39): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(84,39): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(171,13): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(172,13): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(177,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(182,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(217,8): warning C4244: 'initializing': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(218,8): warning C4244: 'initializing': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(277,14): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\FlyMonster.cpp(282,14): warning C4244: 'return': conversion from 'FLOAT' to 'int', possible loss of data
+  GameManager.cpp
+  BombExplode.cpp
+  Goods.cpp
+  Guide.cpp
+  Generating Code...
+  Compiling...
+  Heart.cpp
+  HP.cpp
+  InputManager.cpp
+  Isaac.cpp
+  Leg.cpp
+  Map.cpp
+  Mask.cpp
+  MaskHeart.cpp
+  MatherHeart.cpp
+  Money.cpp
+  MonsterDead.cpp
+  MulImg.cpp
+  Mushroom.cpp
+  NewGame.cpp
+  Node.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Node.cpp(84,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Picture.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Picture.cpp(40,77): warning C4244: 'argument': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Picture.cpp(40,67): warning C4244: 'argument': conversion from 'LONG' to 'FLOAT', possible loss of data
+  Plat.cpp
+  Platform.cpp
+  Player.cpp
+  PlayerBody.cpp
+  Generating Code...
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\InputManager.cpp(140): warning C4715: 'CInputManager::GetMouseListener': not all control paths return a value
+  Compiling...
+  PlayerHead.cpp
+  BulletPoolManager.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\BulletPoolManager.cpp(188,25): warning C4018: '>': signed/unsigned mismatch
+  Res.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Res.cpp(75,47): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Res.cpp(75,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Res.cpp(82,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Res.cpp(83,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ResManager.cpp
+  SelectFile.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectFile.cpp(159,16): warning C4101: 'height': unreferenced local variable
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectFile.cpp(159,9): warning C4101: 'width': unreferenced local variable
+  SelectPlayer.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(187,33): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(188,31): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(189,33): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(190,31): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(193,33): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(194,31): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(197,33): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(198,31): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(201,33): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(202,31): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(262,39): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(286,22): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(287,17): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(304,49): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(329,22): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(330,17): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(346,49): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(371,22): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(372,17): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(388,49): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(413,22): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\SelectPlayer.cpp(414,17): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  Shoe.cpp
+  SingleImg.cpp
+  Stage.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Stage.cpp(472,23): warning C4101: 'speed': unreferenced local variable
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Stage.cpp(3796,22): warning C4305: '+=': truncation from 'double' to 'float'
+  StartSurface.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\StartSurface.cpp(75,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  StaticImg.cpp
+  Tile.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Tile.cpp(70,35): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Tile.cpp(71,35): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Tile.cpp(72,19): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Tile.cpp(73,19): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Tile.cpp(88,18): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Tile.cpp(90,19): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Tile.cpp(91,19): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Tool.cpp
+C:\Mine\C++Projects\RPGGame\Isaac\Isaac\Tool.cpp(93,8): warning C4244: 'initializing': conversion from 'FLOAT' to 'int', possible loss of data
+  Transition.cpp
+  Generating Code...
+  Isaac.vcxproj -> C:\Mine\C++Projects\RPGGame\Isaac\Debug\Isaac.exe

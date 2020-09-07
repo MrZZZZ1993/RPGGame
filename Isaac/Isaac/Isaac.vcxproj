@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{0118B483-1D16-42B5-92F0-81247413C3B3}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Isaac</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>../Include;$(IncludePath)</IncludePath>
+    <LibraryPath>../Lib/x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Angel.h" />
+    <ClInclude Include="AStar.h" />
+    <ClInclude Include="Audio4Bass.h" />
+    <ClInclude Include="bass.h" />
+    <ClInclude Include="Bob.h" />
+    <ClInclude Include="Bomb.h" />
+    <ClInclude Include="Building.h" />
+    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="Door.h" />
+    <ClInclude Include="End.h" />
+    <ClInclude Include="Eye.h" />
+    <ClInclude Include="FeceMonster.h" />
+    <ClInclude Include="Feces.h" />
+    <ClInclude Include="Fire.h" />
+    <ClInclude Include="Fly.h" />
+    <ClInclude Include="FlyDuke.h" />
+    <ClInclude Include="FlyMonster.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="BombExplode.h" />
+    <ClInclude Include="Goods.h" />
+    <ClInclude Include="Guide.h" />
+    <ClInclude Include="Heart.h" />
+    <ClInclude Include="HP.h" />
+    <ClInclude Include="InputManager.h" />
+    <ClInclude Include="Leg.h" />
+    <ClInclude Include="Listener.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="Mask.h" />
+    <ClInclude Include="MaskHeart.h" />
+    <ClInclude Include="MatherHeart.h" />
+    <ClInclude Include="Money.h" />
+    <ClInclude Include="MonsterDead.h" />
+    <ClInclude Include="MulImg.h" />
+    <ClInclude Include="Mushroom.h" />
+    <ClInclude Include="NewGame.h" />
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="Picture.h" />
+    <ClInclude Include="Plat.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="PlayerBody.h" />
+    <ClInclude Include="PlayerHead.h" />
+    <ClInclude Include="BulletPoolManager.h" />
+    <ClInclude Include="Res.h" />
+    <ClInclude Include="ResManager.h" />
+    <ClInclude Include="SelectFile.h" />
+    <ClInclude Include="SelectPlayer.h" />
+    <ClInclude Include="SEvent.h" />
+    <ClInclude Include="Shoe.h" />
+    <ClInclude Include="SingleImg.h" />
+    <ClInclude Include="Singleton.h" />
+    <ClInclude Include="Isaac.h" />
+    <ClInclude Include="Macro.h" />
+    <ClInclude Include="Platform.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="Stage.h" />
+    <ClInclude Include="StartSurface.h" />
+    <ClInclude Include="StaticImg.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Tile.h" />
+    <ClInclude Include="tinystr.h" />
+    <ClInclude Include="tinyxml.h" />
+    <ClInclude Include="Transition.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Angel.cpp" />
+    <ClCompile Include="AStar.cpp" />
+    <ClCompile Include="Audio4Bass.cpp" />
+    <ClCompile Include="Bob.cpp" />
+    <ClCompile Include="Bomb.cpp" />
+    <ClCompile Include="Building.cpp" />
+    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="Door.cpp" />
+    <ClCompile Include="End.cpp" />
+    <ClCompile Include="Eye.cpp" />
+    <ClCompile Include="FeceMonster.cpp" />
+    <ClCompile Include="Feces.cpp" />
+    <ClCompile Include="Fire.cpp" />
+    <ClCompile Include="Fly.cpp" />
+    <ClCompile Include="FlyDuke.cpp" />
+    <ClCompile Include="FlyMonster.cpp" />
+    <ClCompile Include="GameManager.cpp" />
+    <ClCompile Include="BombExplode.cpp" />
+    <ClCompile Include="Goods.cpp" />
+    <ClCompile Include="Guide.cpp" />
+    <ClCompile Include="Heart.cpp" />
+    <ClCompile Include="HP.cpp" />
+    <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="Isaac.cpp" />
+    <ClCompile Include="Leg.cpp" />
+    <ClCompile Include="Map.cpp" />
+    <ClCompile Include="Mask.cpp" />
+    <ClCompile Include="MaskHeart.cpp" />
+    <ClCompile Include="MatherHeart.cpp" />
+    <ClCompile Include="Money.cpp" />
+    <ClCompile Include="MonsterDead.cpp" />
+    <ClCompile Include="MulImg.cpp" />
+    <ClCompile Include="Mushroom.cpp" />
+    <ClCompile Include="NewGame.cpp" />
+    <ClCompile Include="Node.cpp" />
+    <ClCompile Include="Picture.cpp" />
+    <ClCompile Include="Plat.cpp" />
+    <ClCompile Include="Platform.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="PlayerBody.cpp" />
+    <ClCompile Include="PlayerHead.cpp" />
+    <ClCompile Include="BulletPoolManager.cpp" />
+    <ClCompile Include="Res.cpp" />
+    <ClCompile Include="ResManager.cpp" />
+    <ClCompile Include="SelectFile.cpp" />
+    <ClCompile Include="SelectPlayer.cpp" />
+    <ClCompile Include="Shoe.cpp" />
+    <ClCompile Include="SingleImg.cpp" />
+    <ClCompile Include="Stage.cpp" />
+    <ClCompile Include="StartSurface.cpp" />
+    <ClCompile Include="StaticImg.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp" />
+    <ClCompile Include="tinystr.cpp" />
+    <ClCompile Include="tinyxml.cpp" />
+    <ClCompile Include="tinyxmlerror.cpp" />
+    <ClCompile Include="tinyxmlparser.cpp" />
+    <ClCompile Include="Tool.cpp" />
+    <ClCompile Include="Transition.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Isaac.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Isaac.ico" />
+    <Image Include="small.ico" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

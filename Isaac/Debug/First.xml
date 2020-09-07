@@ -1,0 +1,179 @@
+<FirstStage type="0" MapType="0" name="Map1" stone="0" mapNumber="1" desX="0" desY="0" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="1" name="stone" stone="1" fileName="map11.bin" mapNumber="1" desX="0" desY="0" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="1" name="stone1" stone="1" fileName="Stone1.bin" mapNumber="2" desX="832" desY="0" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="1" name="stone2" stone="1" fileName="Stone2.bin" mapNumber="3" desX="0" desY="-576" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="1" name="stone" stone="1" fileName="map11.bin" mapNumber="4" desX="0" desY="-576" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="0" name="Map"  mapNumber="2" desX="832" desY="0" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="0" name="Map2"  mapNumber="3" desX="0" desY="-576" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="0" name="Map3"  mapNumber="4" desX="0" desY="-576" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="0" name="BigMap"  mapNumber="5" desX="832" desY="0" showWidth="1088" showHeight="832" />
+<FirstStage type="0" MapType="0" name="Map4"  mapNumber="6" desX="0" desY="-576" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="1" name="stone3" stone="1" fileName="BigMap.bin" mapNumber="5" desX="832" desY="0" showWidth="1088" showHeight="832" />
+<FirstStage type="0" MapType="1" name="stone4" stone="1" fileName="stone3.bin" mapNumber="6" desX="0" desY="-576" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="0" name="Map6"  mapNumber="7" desX="0" desY="576" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="1" name="stone" stone="1" fileName="map11.bin" mapNumber="7" desX="0" desY="576" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="0" name="Map7"  mapNumber="8" desX="832" desY="0" showWidth="832" showHeight="576" />
+<FirstStage type="0" MapType="1" name="stone" stone="1" fileName="map11.bin" mapNumber="8" desX="832" desY="0" showWidth="832" showHeight="576" />
+
+
+<FirstStage name="fire" type="1" mapIndex="2" desX="370" desY="210" damage="1" />
+<FirstStage name="fire" type="1" mapIndex="3" desX="320" desY="210" damage="1" />
+<FirstStage name="fire" type="1" mapIndex="3" desX="420" desY="210" damage="1" />
+<FirstStage name="fire" type="1" mapIndex="3" desX="370" desY="260" damage="1" />
+<FirstStage name="fire" type="1" mapIndex="3" desX="370" desY="170" damage="1" />
+
+
+<FirstStage name="Fly" type="2" mapIndex="2" desX="300" desY="400" speed="2" curFrame="0" HP="3" visible="1" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="2" desX="400" desY="200" speed="3" curFrame="0" HP="3" visible="1" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="2" desX="300" desY="300" speed="4" curFrame="0" HP="3" visible="1" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="2" desX="350" desY="250" speed="5" curFrame="0" HP="3" visible="1" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="2" desX="400" desY="400" speed="6" curFrame="0" HP="3" visible="1" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="2" desX="450" desY="300" speed="7" curFrame="0" HP="3" visible="1" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="2" desX="300" desY="400" speed="8" curFrame="0" HP="3" visible="1" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="2" desX="380" desY="280" speed="9" curFrame="0" HP="3" visible="1" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="2" desX="500" desY="400" speed="10" curFrame="0" HP="3" visible="1" damage="1" />
+
+
+<FirstStage name="Fly" type="2" mapIndex="4" desX="200" desY="200" speed="5" curFrame="0" HP="1" visible="0" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="4" desX="300" desY="400" speed="4" curFrame="0" HP="1" visible="0" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="4" desX="100" desY="200" speed="3" curFrame="0" HP="1" visible="0" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="4" desX="300" desY="300" speed="2" curFrame="0" HP="1" visible="0" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="4" desX="400" desY="400" speed="6" curFrame="0" HP="1" visible="0" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="4" desX="200" desY="300" speed="7" curFrame="0" HP="1" visible="0" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="4" desX="300" desY="400" speed="8" curFrame="0" HP="1" visible="0" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="4" desX="200" desY="280" speed="9" curFrame="0" HP="1" visible="0" damage="1" />
+<FirstStage name="Fly" type="2" mapIndex="4" desX="150" desY="400" speed="10" curFrame="0" HP="1" visible="0" damage="1" />
+
+
+<FirstStage name="FlyMonster" type="3" mapIndex="3" desX="110" desY="110" speed="5" fHalfWidth="15" dirX="2" dirY="5" HP="3" damage="1" visible="1" />
+<FirstStage name="FlyMonster" type="3" mapIndex="3" desX="210" desY="210" speed="5" fHalfWidth="15" dirX="-15" dirY="-10" HP="3" damage="1" visible="1" />
+<FirstStage name="FlyMonster" type="3" mapIndex="3" desX="110" desY="110" speed="5" fHalfWidth="15" dirX="-10" dirY="5" HP="3" damage="1" visible="1" />
+
+
+<FirstStage name="door2" type="4" doorType="2" doorIndex="12" desX="740" desY="240" curFrame="0" curRow="4" startFrame="0" endFrame="0" startRow="4" endRow="0" />
+<FirstStage name="door4" type="4" doorType="4" doorIndex="21" desX="32" desY="240" curFrame="0" curRow="0" startFrame="0" endFrame="0" startRow="0" endRow="4" />
+<FirstStage name="door1" type="4" doorType="1" doorIndex="26" desX="370" desY="36" curFrame="4" curRow="0" startFrame="4" endFrame="0" startRow="0" endRow="0" />
+<FirstStage name="door3" type="4" doorType="3" doorIndex="62" desX="370" desY="480" curFrame="0" curRow="0" startFrame="0" endFrame="4" startRow="0" endRow="0" />
+<FirstStage name="bossDoor1" type="4" doorType="1" doorIndex="34" desX="350" desY="16" curFrame="4" curRow="0" startFrame="4" endFrame="0" startRow="0" endRow="0" />
+<FirstStage name="bossDoor3" type="4" doorType="3" doorIndex="43" desX="350" desY="478" curFrame="0" curRow="0" startFrame="0" endFrame="4" startRow="0" endRow="0" />
+<FirstStage name="door2" type="4" doorType="2" doorIndex="25" desX="740" desY="240" curFrame="0" curRow="4" startFrame="0" endFrame="0" startRow="4" endRow="0" />
+<FirstStage name="door4" type="4" doorType="4" doorIndex="52" desX="32" desY="240" curFrame="0" curRow="0" startFrame="0" endFrame="0" startRow="0" endRow="4" />
+<FirstStage name="door1" type="4" doorType="1" doorIndex="63" desX="370" desY="36" curFrame="4" curRow="0" startFrame="4" endFrame="0" startRow="0" endRow="0" />
+<FirstStage name="door3" type="4" doorType="3" doorIndex="36" desX="370" desY="480" curFrame="0" curRow="0" startFrame="0" endFrame="4" startRow="0" endRow="0" />
+<FirstStage name="door3" type="4" doorType="3" doorIndex="17" desX="370" desY="480" curFrame="0" curRow="0" startFrame="0" endFrame="4" startRow="0" endRow="0" />
+<FirstStage name="door1" type="4" doorType="1" doorIndex="71" desX="370" desY="36" curFrame="4" curRow="0" startFrame="4" endFrame="0" startRow="0" endRow="0" />
+<FirstStage name="door2" type="4" doorType="2" doorIndex="38" desX="740" desY="240" curFrame="0" curRow="4" startFrame="0" endFrame="0" startRow="4" endRow="0" />
+<FirstStage name="door4" type="4" doorType="4" doorIndex="83" desX="32" desY="240" curFrame="0" curRow="0" startFrame="0" endFrame="0" startRow="0" endRow="4" />
+
+
+<FirstStage name="PlayerHead" type="5" shadow="3" desX="400" desY="200" speed="10" hp="24" />
+<FirstStage name="PlayerBody" type="5" shadow="2" desX="401" desY="222" speed="10" />
+<FirstStage name="PlayerShadow" type="5" shadow="1" />
+
+
+<FirstStage name="Bullet" type="6" damage="1" speed="15" />
+
+
+<FirstStage name="FlyDuke" type="7" mapIndex="4" desX="510" desY="210" speed="5" fHalfWidth="55" dirX="10" dirY="5" fireTime="4000" HP="10" damage="1" visible="1" />
+
+
+<FirstStage name="Black" type="8" mapIndex="4" desX="0" desY="0"/>
+<FirstStage name="ground1" type="8" mapIndex="4" desX="-690" desY="450"/>
+<FirstStage name="ground" type="8" mapIndex="4" desX="1090" desY="450"/>
+<FirstStage name="DukeOfFly" type="8" mapIndex="4" desX="1090" desY="160"/>
+<FirstStage name="isaac" type="8" mapIndex="4" desX="-550" desY="370"/>
+<FirstStage name="DUKE" type="8" mapIndex="4" desX="1140" desY="80"/>
+<FirstStage name="ISA" type="8" mapIndex="4" desX="-600" desY="80"/>
+<FirstStage name="VS" type="8" mapIndex="4" desX="0" desY="0"/>
+
+
+<FirstStage name="Attribute" type="9" mapIndex="1" doorIndex="2"  mapSpeed="64" bossRoom="4" bossHP="10" />
+
+
+<FirstStage name="blood" type="10" desX="270" desY="20" />
+
+
+<FirstStage name="blood1" type="11" desX="270" desY="20" endFrame="2" endRow="3" startFrame="0" startRow="0" />
+
+
+<FirstStage name="guide" type="12" mapIndex="1" desX="733" desY="78" srcX="227" srcY="163" showWidth="20" showHeight="16" state="0"/>
+<FirstStage name="guide" type="12" mapIndex="2" desX="749" desY="78" srcX="131" srcY="35" showWidth="20" showHeight="16" state="2" />
+<FirstStage name="guide" type="12" mapIndex="3" desX="749" desY="52" srcX="131" srcY="67" showWidth="20" showHeight="16" state="2" />
+<FirstStage name="guide" type="12" mapIndex="4" desX="749" desY="39" srcX="67" srcY="163" showWidth="20" showHeight="16" state="3" />
+<FirstStage name="guide" type="12" mapIndex="5" desX="765" desY="78" srcX="131" srcY="35" showWidth="20" showHeight="16" state="2" />
+<FirstStage name="guide" type="12" mapIndex="6" desX="749" desY="65" srcX="131" srcY="35" showWidth="20" showHeight="16" state="2" />
+<FirstStage name="guide" type="12" mapIndex="7" desX="733" desY="91" srcX="131" srcY="35" showWidth="20" showHeight="16" state="2" />
+<FirstStage name="guide" type="12" mapIndex="8" desX="765" desY="52" srcX="131" srcY="67" showWidth="20" showHeight="16" state="2" />
+
+
+<FirstStage name="HEART" type="13" desX="20" desY="20" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="45" desY="20" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="70" desY="20" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="95" desY="20" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="120" desY="20" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="145" desY="20" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="20" desY="45" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="45" desY="45" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="70" desY="45" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="95" desY="45" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="120" desY="45" srcX="0" srcY="0" />
+<FirstStage name="HEART" type="13" desX="145" desY="45" srcX="0" srcY="0" />
+
+
+<FirstStage name="bombExplode" type="14" startFrame="0"  endFrame="3" startRow="0" endRow="2" curFrame="0" curRow="0" damage="1" />
+<FirstStage name="bombExplode" type="14" startFrame="0"  endFrame="3" startRow="0" endRow="2" curFrame="0" curRow="0" damage="1" />
+
+
+<FirstStage name="tile" type="15" startFrame="0"  endFrame="1" startRow="0" endRow="0" curFrame="0" curRow="0" damage="1" desX="95" desY="120" point1X="95" point1Y="120" point2X="0" point2Y="0" point3X="0" point3Y="0" point4X="0" point4Y="0" endCount="1" mapIndex="6" speed="10" />
+<FirstStage name="tile" type="15" startFrame="0"  endFrame="1" startRow="0" endRow="0" curFrame="0" curRow="0" damage="1" desX="95" desY="350" point1X="95" point1Y="350" point2X="0" point2Y="0" point3X="0" point3Y="0" point4X="0" point4Y="0" endCount="1" mapIndex="6" speed="10" />
+<FirstStage name="tile" type="15" startFrame="0"  endFrame="1" startRow="0" endRow="0" curFrame="0" curRow="0" damage="1" desX="640" desY="120" point1X="640" point1Y="120" point2X="0" point2Y="0" point3X="0" point3Y="0" point4X="0" point4Y="0" endCount="1" mapIndex="6" speed="10" />
+<FirstStage name="tile" type="15" startFrame="0"  endFrame="1" startRow="0" endRow="0" curFrame="0" curRow="0" damage="1" desX="640" desY="350" point1X="640" point1Y="350" point2X="0" point2Y="0" point3X="0" point3Y="0" point4X="0" point4Y="0" endCount="1" mapIndex="6" speed="10" />
+<FirstStage name="tile" type="15" startFrame="0"  endFrame="1" startRow="0" endRow="0" curFrame="0" curRow="0" damage="1" desX="250" desY="160" point1X="490" point1Y="160" point2X="250" point2Y="160" point3X="0" point3Y="0" point4X="0" point4Y="0" endCount="2" mapIndex="6" speed="15" />
+<FirstStage name="tile" type="15" startFrame="0"  endFrame="1" startRow="0" endRow="0" curFrame="0" curRow="0" damage="1" desX="490" desY="240" point1X="250" point1Y="240" point2X="490" point2Y="240" point3X="0" point3Y="0" point4X="0" point4Y="0" endCount="2" mapIndex="6" speed="15" />
+<FirstStage name="tile" type="15" startFrame="0"  endFrame="1" startRow="0" endRow="0" curFrame="0" curRow="0" damage="1" desX="250" desY="320" point1X="490" point1Y="320" point2X="250" point2Y="320" point3X="0" point3Y="0" point4X="0" point4Y="0" endCount="2" mapIndex="6" speed="15" />
+
+
+<FirstStage name="BobHead" type="16" mapIndex="5" desX="890" desY="130" speed="8" damage="1" walkMap="BigMap.bin" visible="1" hp="3" />
+<FirstStage name="BobHead" type="16" mapIndex="5" desX="150" desY="680" speed="7" damage="1" walkMap="BigMap.bin" visible="1" hp="3" />
+<FirstStage name="BobHead" type="16" mapIndex="5" desX="150" desY="650" speed="6" damage="1" walkMap="BigMap.bin" visible="1" hp="3" />
+<FirstStage name="BobHead" type="16" mapIndex="5" desX="910" desY="130" speed="5" damage="1" walkMap="BigMap.bin" visible="1" hp="3" />
+<FirstStage name="BobHead" type="16" mapIndex="5" desX="150" desY="600" speed="9" damage="1" walkMap="BigMap.bin" visible="1" hp="3" />
+<FirstStage name="BobHead" type="16" mapIndex="5" desX="880" desY="130" speed="10" damage="1" walkMap="BigMap.bin" visible="1" hp="3" />
+
+
+<FirstStage name="dead" type="17" />
+<FirstStage name="dead" type="17" />
+<FirstStage name="dead" type="17" />
+<FirstStage name="dead" type="17" />
+
+
+<FirstStage name="goldenBox" type="23" mapIndex="4" />
+
+
+<FirstStage name="1268" type="24" goodsType="0" mapIndex="7" desX="380" desY="260" showWidth="60" showHeight="60" visible="1" />
+<FirstStage name="mushroom" type="24" goodsType="1" mapIndex="7" desX="380" desY="210" showWidth="60" showHeight="60" visible="0" />
+<FirstStage name="shoe" type="24" goodsType="2" mapIndex="7" desX="380" desY="210" showWidth="60" showHeight="60" visible="0" />
+<FirstStage name="scissor" type="24" goodsType="3" mapIndex="7" desX="380" desY="210" showWidth="60" showHeight="60" visible="0" />
+<FirstStage name="bomb" type="24" goodsType="4" mapIndex="7" desX="380" desY="210" showWidth="60" showHeight="60" visible="0" />
+<FirstStage name="fatherLeg" type="24" goodsType="5" mapIndex="7" desX="380" desY="210" showWidth="60" showHeight="60" visible="0" speed="64" damage="5" />
+<FirstStage name="angel" type="24" goodsType="6" mapIndex="8" desX="310" desY="80" showWidth="192" showHeight="192" visible="1" />
+<FirstStage name="heart111" type="24" goodsType="7" mapIndex="8" desX="380" desY="260" showWidth="64" showHeight="64" visible="1" />
+
+
+<FirstStage name="money" type="25" mapIndex="2" desX="100" desY="200" />
+<FirstStage name="money" type="25" mapIndex="3" desX="100" desY="200" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

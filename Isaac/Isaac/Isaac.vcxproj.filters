@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="单例">
+      <UniqueIdentifier>{562e87c5-60b2-45a4-9a71-3adb33b4ee6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="平台">
+      <UniqueIdentifier>{e5dbc37f-3a76-476a-8ffe-f06774d9c474}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源">
+      <UniqueIdentifier>{19a27033-fab4-44ee-8112-36dc0c96cb48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏管理">
+      <UniqueIdentifier>{9ef1f481-0ed3-48ff-bba1-5d59b66e5441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源管理">
+      <UniqueIdentifier>{e4553a73-f67e-40b3-8dda-d6877511b65c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="消息管理">
+      <UniqueIdentifier>{fdab639a-ecd7-4665-828d-9dc44ac9261d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="玩家">
+      <UniqueIdentifier>{e6334e25-6328-4c42-ac12-6bdd78c2b1fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="地图">
+      <UniqueIdentifier>{f69ab48b-d6da-40bc-a01a-0305d4f6ad19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="子弹">
+      <UniqueIdentifier>{1e7aef97-d5dd-4690-930f-367539dd3f59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="界面">
+      <UniqueIdentifier>{af9652ac-ab48-4aed-93c6-a57534f10167}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="界面\开始界面">
+      <UniqueIdentifier>{c5c6e8aa-e687-410a-9faa-1a64a9663223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="界面\存/读档界面">
+      <UniqueIdentifier>{649335d8-79fb-44f0-b634-81ffeed733e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="建筑">
+      <UniqueIdentifier>{65f8d25b-6db2-4232-9aae-b958633be8ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="怪物">
+      <UniqueIdentifier>{9a43291c-ca9b-43c6-8a78-fb7d7c88f197}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="界面\新游戏选项">
+      <UniqueIdentifier>{683dad07-449c-4062-a120-99fa88bec002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="界面\选择角色">
+      <UniqueIdentifier>{68727274-ded9-4b3b-afd7-b3f61e7ca13a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="界面\过渡">
+      <UniqueIdentifier>{bb1b0c1e-3c1c-4946-8233-f576f764bd26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="火焰">
+      <UniqueIdentifier>{cd8c4193-d878-4589-86eb-0cf57f028de5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="关卡">
+      <UniqueIdentifier>{1f9a561b-5255-4c00-b12d-646ee24a96e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="生命">
+      <UniqueIdentifier>{0bb2f782-ea1f-4f11-b380-b9d7dae4c9d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="A%2a算法">
+      <UniqueIdentifier>{c4d2c510-45c7-450a-b5d4-36f8ba4bb56f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="物品">
+      <UniqueIdentifier>{86a4d609-ed80-49f2-89cd-d733169951a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="界面\游戏结束">
+      <UniqueIdentifier>{7551bf26-8f9b-4bd1-bbf8-5a4f63a69739}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="声音">
+      <UniqueIdentifier>{1d712fba-6e5c-4a1b-bdb4-56c1c3509459}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Isaac.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Macro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>平台</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>单例</Filter>
+    </ClInclude>
+    <ClInclude Include="Res.h">
+      <Filter>资源</Filter>
+    </ClInclude>
+    <ClInclude Include="Picture.h">
+      <Filter>资源</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticImg.h">
+      <Filter>资源</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleImg.h">
+      <Filter>资源</Filter>
+    </ClInclude>
+    <ClInclude Include="MulImg.h">
+      <Filter>资源</Filter>
+    </ClInclude>
+    <ClInclude Include="ResManager.h">
+      <Filter>资源管理</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>游戏管理</Filter>
+    </ClInclude>
+    <ClInclude Include="tinystr.h">
+      <Filter>资源管理</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml.h">
+      <Filter>资源管理</Filter>
+    </ClInclude>
+    <ClInclude Include="SEvent.h">
+      <Filter>消息管理</Filter>
+    </ClInclude>
+    <ClInclude Include="Listener.h">
+      <Filter>消息管理</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>消息管理</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>地图</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerHead.h">
+      <Filter>玩家</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBody.h">
+      <Filter>玩家</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>玩家</Filter>
+    </ClInclude>
+    <ClInclude Include="StartSurface.h">
+      <Filter>界面\开始界面</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletPoolManager.h">
+      <Filter>子弹</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>子弹</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectFile.h">
+      <Filter>界面\存/读档界面</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>建筑</Filter>
+    </ClInclude>
+    <ClInclude Include="Feces.h">
+      <Filter>建筑</Filter>
+    </ClInclude>
+    <ClInclude Include="Fly.h">
+      <Filter>怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="FlyMonster.h">
+      <Filter>怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="NewGame.h">
+      <Filter>界面\新游戏选项</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectPlayer.h">
+      <Filter>界面\选择角色</Filter>
+    </ClInclude>
+    <ClInclude Include="Transition.h">
+      <Filter>界面\过渡</Filter>
+    </ClInclude>
+    <ClInclude Include="Fire.h">
+      <Filter>火焰</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>关卡</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>建筑</Filter>
+    </ClInclude>
+    <ClInclude Include="FlyDuke.h">
+      <Filter>怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="Guide.h">
+      <Filter>地图</Filter>
+    </ClInclude>
+    <ClInclude Include="Heart.h">
+      <Filter>生命</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>地图</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar.h">
+      <Filter>A%2a算法</Filter>
+    </ClInclude>
+    <ClInclude Include="BombExplode.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>建筑</Filter>
+    </ClInclude>
+    <ClInclude Include="Mask.h">
+      <Filter>怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="Bob.h">
+      <Filter>怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterDead.h">
+      <Filter>怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="MaskHeart.h">
+      <Filter>怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="FeceMonster.h">
+      <Filter>怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="MatherHeart.h">
+      <Filter>怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="End.h">
+      <Filter>界面\游戏结束</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio4Bass.h">
+      <Filter>声音</Filter>
+    </ClInclude>
+    <ClInclude Include="bass.h">
+      <Filter>声音</Filter>
+    </ClInclude>
+    <ClInclude Include="Goods.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Mushroom.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Plat.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Shoe.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Eye.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Leg.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Angel.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="HP.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+    <ClInclude Include="Money.h">
+      <Filter>物品</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Isaac.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>平台</Filter>
+    </ClCompile>
+    <ClCompile Include="Res.cpp">
+      <Filter>资源</Filter>
+    </ClCompile>
+    <ClCompile Include="Picture.cpp">
+      <Filter>资源</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticImg.cpp">
+      <Filter>资源</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleImg.cpp">
+      <Filter>资源</Filter>
+    </ClCompile>
+    <ClCompile Include="MulImg.cpp">
+      <Filter>资源</Filter>
+    </ClCompile>
+    <ClCompile Include="ResManager.cpp">
+      <Filter>资源管理</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>游戏管理</Filter>
+    </ClCompile>
+    <ClCompile Include="tinystr.cpp">
+      <Filter>资源管理</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml.cpp">
+      <Filter>资源管理</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlerror.cpp">
+      <Filter>资源管理</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlparser.cpp">
+      <Filter>资源管理</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>消息管理</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>地图</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerHead.cpp">
+      <Filter>玩家</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBody.cpp">
+      <Filter>玩家</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>玩家</Filter>
+    </ClCompile>
+    <ClCompile Include="StartSurface.cpp">
+      <Filter>界面\开始界面</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletPoolManager.cpp">
+      <Filter>子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>子弹</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectFile.cpp">
+      <Filter>界面\存/读档界面</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>建筑</Filter>
+    </ClCompile>
+    <ClCompile Include="Feces.cpp">
+      <Filter>建筑</Filter>
+    </ClCompile>
+    <ClCompile Include="Fly.cpp">
+      <Filter>怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="FlyMonster.cpp">
+      <Filter>怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="NewGame.cpp">
+      <Filter>界面\新游戏选项</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectPlayer.cpp">
+      <Filter>界面\选择角色</Filter>
+    </ClCompile>
+    <ClCompile Include="Transition.cpp">
+      <Filter>界面\过渡</Filter>
+    </ClCompile>
+    <ClCompile Include="Fire.cpp">
+      <Filter>火焰</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>关卡</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>建筑</Filter>
+    </ClCompile>
+    <ClCompile Include="FlyDuke.cpp">
+      <Filter>怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="Guide.cpp">
+      <Filter>地图</Filter>
+    </ClCompile>
+    <ClCompile Include="Heart.cpp">
+      <Filter>生命</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>地图</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar.cpp">
+      <Filter>A%2a算法</Filter>
+    </ClCompile>
+    <ClCompile Include="BombExplode.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>建筑</Filter>
+    </ClCompile>
+    <ClCompile Include="Mask.cpp">
+      <Filter>怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="Bob.cpp">
+      <Filter>怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterDead.cpp">
+      <Filter>怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="MaskHeart.cpp">
+      <Filter>怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="FeceMonster.cpp">
+      <Filter>怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="MatherHeart.cpp">
+      <Filter>怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="End.cpp">
+      <Filter>界面\游戏结束</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio4Bass.cpp">
+      <Filter>声音</Filter>
+    </ClCompile>
+    <ClCompile Include="Goods.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Mushroom.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Plat.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Shoe.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Eye.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Leg.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Angel.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="HP.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Money.cpp">
+      <Filter>物品</Filter>
+    </ClCompile>
+    <ClCompile Include="Tool.cpp">
+      <Filter>资源管理</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Isaac.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="Isaac.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+C:\Mine\面试\Isaac(16.1.12XIN11)\Isaac\stdafx.h(21,10): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
