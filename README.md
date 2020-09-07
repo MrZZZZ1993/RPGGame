@@ -6,3 +6,8 @@ It also can generate map randomly when player starts a new game. Several monster
 When player exit the game, it can save automatically.
 
 Some game pictures are in the GAME_PICTURES folder.
+
+move: w, a, s, d
+attack: ↑, ↓, ←, →
+confirm: Enter
+switch roles(selecting interface): →
